@@ -17,9 +17,9 @@
 
 ### **rule-set**
 
-mihomo：[meta branch](https://github.com/MetaCubeX/meta-rules-dat/tree/meta)
+mihomo：[meta branch](https://github.com/HyperCN/meta-rules-dat/tree/meta)
 
-sing-box: [sing branch](https://github.com/MetaCubeX/meta-rules-dat/tree/sing)
+sing-box: [sing branch](https://github.com/HyperCN/meta-rules-dat/tree/sing)
 
 ## **country.mmdb,geoip.dat,geoip.db 内容**
 
@@ -135,4 +135,5 @@ https://github.com/MetaCubeX/geo
 - [@DanPollock/hosts](https://someonewhocares.org/hosts)
 - [@crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
 - [@blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+
 
